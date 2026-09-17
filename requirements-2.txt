@@ -1,0 +1,11 @@
+streamlit
+pandas
+python-docx
+python-pptx
+qrcode
+Pillow
+docx2pdf
+comtypes
+pypdf
+plotly
+openpyxl
