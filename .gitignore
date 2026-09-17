@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CertiGen Pro - Local data and generated files
+system/users.json
+records/
+certificates/
+
+# Temporary certificate generation files
+temp_*.docx
+temp_*.pptx
+qr_*.png
+
+# Local configuration / secrets
+config.py
+.env
+
